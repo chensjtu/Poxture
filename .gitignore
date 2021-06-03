@@ -1,0 +1,19 @@
+# folders
+iPERCore.egg-info
+assets
+results
+checkpoints
+.ipynb_checkpoints
+.vscode
+data
+docs
+
+
+*.idea
+*.pyc
+*.sh
+*venv
+*.pytest
+*debug*
+*.pt 
+*.ckpt
