@@ -5,7 +5,7 @@ results
 checkpoints
 .ipynb_checkpoints
 .vscode
-data
+/data/
 docs
 
 
